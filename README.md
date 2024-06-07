@@ -4,10 +4,10 @@
 #### ~ 3 years
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=py,pytorch" />
 
-### ~ 2 years
+#### ~ 2 years
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=docker,js,html,css" />
 
-### ~ 1 years
+#### ~ 1 years
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=react,ts,js,fastapi,nodejs,mongodb,mysql,aws,cpp" />
 
 ## 📈 Status
