@@ -1,5 +1,6 @@
 ## Hi there 👋
 I'm a student of Tohoku Univ.
+
 Specializes in AI (Speech Emotion Recognition / Natural Language Processing).
 
 ## 🌱 My skills
