@@ -14,7 +14,7 @@ bio: [github.io](https://u-hyszk.github.io/)
 |~ 1 years| <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=react,fastapi,nodejs,mongodb,mysql,aws,cpp" /> |
 
 ## 📈 Status
-![github-readme-stats](https://github-readme-stats-clone-zeta.vercel.app/api/top-langs/?username=u-hyszk&layout=pie)
+![github-readme-stats](https://github-readme-stats-clone-zeta.vercel.app/api/top-langs/?username=u-hyszk&langs_count=12)
 
 <!--
 **u-hyszk/u-hyszk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
