@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## 🌱 my skills
+## 🌱 My skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=py,pytorch,docker,react,ts,js,react,fastapi,nodejs,mongodb,mysql,html,css,aws,cpp" />
 
 ## 📈 Status
