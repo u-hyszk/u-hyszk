@@ -1,12 +1,6 @@
 ## Hi there 👋
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
-</p>
-<p>
-  ![github-readme-stats](https://github-readme-stats-clone-zeta.vercel.app/api/top-langs/?username=u-hyszk&layout=pie&theme=tokyonight)
-</p>
+![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)
+![github-readme-stats](https://github-readme-stats-clone-zeta.vercel.app/api/top-langs/?username=u-hyszk&layout=pie&theme=tokyonight)
 
 <!--
 **u-hyszk/u-hyszk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
