@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm a student of Tohoku Univ.
+I'm a M1 student at Tohoku University.
 
 Specializes in AI (Speech Emotion Recognition / Natural Language Processing).
 
