@@ -4,8 +4,8 @@
   <a href="https://github.com/u-hyszk/u-hyszk/">
     <img src="https://komarev.com/ghpvc/?username=u-hyszk" alt="u-hyszk" />
   </a>
-  <a href="http://twitter.com/u-hyszk">
-    <img height="20" src="https://img.shields.io/twitter/follow/u-hyszk?label=Twitter&logo=twitter&style=flat" />
+  <a href="http://x.com/u-hyszk">
+    <img height="20" src="https://img.shields.io/x/follow/u-hyszk?label=X&logo=X&style=flat" />
   </a>
   <a href="https://github.com/u-hyszk">
     <img height="20" src="https://img.shields.io/github/followers/u-hyszk?label=follow&logo=github&style=flat" />
