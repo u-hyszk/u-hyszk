@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![github-readme-stats](https://github-readme-stats-clone-drab.vercel.app/api/?username=u-hyszk)
+![github-readme-stats](https://github-readme-stats-clone-zeta.vercel.app/api/?username=u-hyszk)
 
 <!--
 **u-hyszk/u-hyszk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
