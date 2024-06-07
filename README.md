@@ -1,13 +1,21 @@
 ## Hi there 👋
 
-## 🌕 About hanetsuki
+## 🌕 About u-hyszk
 Hi, I'm an illustrator and JavaScript engineer. 🤝
 
 ## 🌱 my skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=ts,js,html,css,jquery,nodejs,react,nextjs,gatsbyjs,vue,astro,sass,tailwind,vite,webpack,supabase,firebase,vercel,netlify,aws,git,github,githubactions,figma" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=py," />
+
+fastapi
+docker
+js
+css
+html
+cpp
+aws
 
 ## 📈 Status
-![github-readme-stats](https://github-readme-stats-clone-zeta.vercel.app/api/top-langs/?username=u-hyszk&layout=pie&theme=tokyonight)
+![github-readme-stats](https://github-readme-stats-clone-zeta.vercel.app/api/top-langs/?username=u-hyszk&layout=pie)
 
 <!--
 **u-hyszk/u-hyszk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
