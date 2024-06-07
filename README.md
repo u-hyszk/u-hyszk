@@ -4,7 +4,9 @@
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
   </a>
 </p>
-![github-readme-stats](https://github-readme-stats-clone-zeta.vercel.app/api/top-langs/?username=u-hyszk&layout=pie&theme=tokyonight)
+<p>
+  ![github-readme-stats](https://github-readme-stats-clone-zeta.vercel.app/api/top-langs/?username=u-hyszk&layout=pie&theme=tokyonight)
+</p>
 
 <!--
 **u-hyszk/u-hyszk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
