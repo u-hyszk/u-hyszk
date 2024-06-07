@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ## 🌱 My skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=py,pytorch,docker,react,ts,js,react,fastapi,nodejs,mongodb,mysql,html,css,aws,cpp" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=py,pytorch,docker,react,ts,js,fastapi,nodejs,mongodb,mysql,html,css,aws,cpp" />
 
 ## 📈 Status
 ![github-readme-stats](https://github-readme-stats-clone-zeta.vercel.app/api/top-langs/?username=u-hyszk&layout=pie)
