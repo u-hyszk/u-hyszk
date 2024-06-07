@@ -3,6 +3,8 @@ I'm a student of Tohoku Univ.
 
 Specializes in AI (Speech Emotion Recognition / Natural Language Processing).
 
+bio: [github.io](https://u-hyszk.github.io/)
+
 ## 🌱 My skills
 
 |Time|Skills|
